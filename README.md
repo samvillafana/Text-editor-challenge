@@ -1,1 +1,1 @@
-# Text-editor-challenge
+# Text Editor Starter Code
