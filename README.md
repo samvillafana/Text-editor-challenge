@@ -1,5 +1,6 @@
 # Text Editor Starter Code
 
+![Screen Shot 2023-03-13 at 2 21 30 PM](https://user-images.githubusercontent.com/113561586/224794434-f34e4ec7-ec70-4bf7-a435-ae25f5d20f64.png)
 
 USAGE:
 
@@ -31,4 +32,30 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+
+
+Installation
+
+
+Install NPM packages
+
+npm install
+
+
+npm run build
+
+
+npm run start:dev
+
+
+Go to http://localhost:3001/
+    
+    
+Question, reach me out below.
+
+
+Github repository https://github.com/samvillafana
+
+
+email : sjvillafana@gmail.com
 
